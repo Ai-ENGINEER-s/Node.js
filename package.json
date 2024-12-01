@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to execute JavaScript code outside the browser. It is based on an event-driven, non-blocking I/O model, making it efficient and lightweight for building scalable network applications.",
+  "type": "module",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ai-ENGINEER-s/Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ai-ENGINEER-s/Node.js/issues"
+  },
+  "homepage": "https://github.com/Ai-ENGINEER-s/Node.js#readme"
+}
